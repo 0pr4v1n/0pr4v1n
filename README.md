@@ -2,9 +2,6 @@
 Student at International Institute of Professional Studies, IIPS, DAVV, Indore
 
 
-<div id="header" align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45F715&width=435&lines=%23+whoami;Bug+Bounty+Hunter;Penetration+Tester;Security+Researcher;Open+Source+Contributor" alt="Typing SVG">
-</div>
 
 <div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=0pr4v1n&style=for-the-badge&color=blue" alt=""/>
